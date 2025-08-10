@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m VZS, a developer currently pursuing my education in [your field or degree, e.g., Computer Science].<br>Skilled in Java, C, C++, Python and web technologies (HTML, CSS, JavaScript, React).<br>Focused on data structures and algorithms to build efficient and practical projects.<br>Open to collaboration and always excited to connect with fellow developers.
+I’m Maharshi Mayank Tiwari, a developer currently pursuing my education in [your field or degree, e.g., Computer Science].<br>Skilled in Java, C, C++, Python and web technologies (HTML, CSS, JavaScript, React).<br>Focused on data structures and algorithms to build efficient and practical projects.<br>Open to collaboration and always excited to connect with fellow developers.
 
 
 ## 🌐 Socials:
